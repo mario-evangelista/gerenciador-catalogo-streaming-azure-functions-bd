@@ -27,8 +27,8 @@ Um gerenciador de catálogos para a Netflix, desenvolvido utilizando **Azure Fun
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/netflix-catalog-manager.git
-   cd netflix-catalog-manager
+   git clone https://github.com/mario-evangelista/gerenciador-catalogo-streaming-azure-functions-bd.git
+   cd gerenciador-catalogo-streaming-azure-functions-bd
    ```
 
 2. Configure o ambiente virtual:
